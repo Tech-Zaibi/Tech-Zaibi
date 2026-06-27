@@ -13,6 +13,5 @@ Hi there, I'm Muhammad Shahzeb Qamar 👋<br><br>I'm a Full Stack Developer who 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tech-Zaibi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tech-Zaibi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
